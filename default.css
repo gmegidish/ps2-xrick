@@ -1,0 +1,140 @@
+body {
+	color: #000000;
+	background: #bbccdd;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 100%;
+}
+
+table.table {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+}
+
+table.itable {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 100%;
+}
+
+span.small {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+}
+
+code {
+	color: #000066;
+}
+
+pre {
+	color: #000066;
+}
+
+a {
+	color: #0066CC;
+	text-decoration: underline;
+}
+
+a:visited {
+	color: #0066CC;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #990000;
+	text-decoration: underline;
+}
+
+td.left {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 80%;
+}
+
+.hd {
+  background: #99cccc;
+  color: #336666;
+}
+
+a.hd {
+  color: #336666;
+  font-family: Times New Roman, serif;
+  font-style: italic;
+  text-decoration: none;
+  font-size: 120%;
+}
+a.hd:hover {
+  text-decoration: underline;
+}
+
+.st {
+  font-family: Times New Roman, serif;
+  font-size: 120%;
+  font-style: italic;
+}
+
+td.nav {
+  font-family: Arial, sans-serif;
+  background: #99cccc;
+  color: #336666;
+  font-size: 80%;
+}
+
+td.box {
+  font-family: Arial, sans-serif;
+  background: #ffcc66;
+  color: #336666;
+  font-size: 80%;
+}
+
+.bg {
+  background: #ffffff;
+}
+
+td.dkbg {
+  background: #336666;
+}
+
+.fnt80 {
+  font-family: Arial, sans-serif;
+  font-size: 80%;
+}
+
+h1 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: normal;
+  font-size: 120%;
+  color: #0066CC;
+}
+
+h2 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 100%;
+  color: #000000;
+}
+
+h3 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 80%;
+	color: #000000;
+	font-style: italic;
+}
+
+ul {
+  font-size: 80%;
+}
+
+a.nav {
+  color: #336666;
+  text-decoration: none;
+  font-family: Arial, sans-serif;
+}
+
+a.nav:hover {
+  color: #000000;
+  text-decoration: underline;
+}
+
+a.navu {
+  color: #336666;
+  font-family: Arial, sans-serif;
+}
